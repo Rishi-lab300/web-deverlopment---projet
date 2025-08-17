@@ -1,0 +1,1 @@
+Portfolio Website – A modern, responsive personal portfolio built with React, Tailwind CSS, and Framer Motion. Includes sections for About, Skills, Projects, and Contact with smooth animations and SEO optimization.
