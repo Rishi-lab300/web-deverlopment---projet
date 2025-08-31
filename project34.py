@@ -64,7 +64,7 @@ ax[0].set_xlabel("Year")
 ax[0].set_ylabel("Number of Movies")
 
 
-ax[0].plot(content_by_year.index, content_by_year['Movie'] , color ='blue')
+ax[0].plot(content_by_year.index, content_by_year['TV Show'] , color ='yellow')
 ax[0].set_title("Tv shows released per year")
 ax[0].set_xlabel("Year")
 ax[0].set_ylabel("Number of Tv shows")
